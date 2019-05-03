@@ -61,7 +61,7 @@ information or no information at all without wasting time.
 7. Then do this: https://tinyurl.com/y2o5pcmn
 8. Then do this: https://tinyurl.com/y2f24qjd
 9. Then do this: https://tinyurl.com/y2f24qjd
-10. Install Python
+10. https://www.cygwin.com/setup-x86_64.exe select basic *nix utils
 11. Your all set!
 
 # Contact
