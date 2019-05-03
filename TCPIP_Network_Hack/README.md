@@ -7,6 +7,9 @@
 # TCP-IP-Session-Hijacker
 1. Advanced TCP-IP session hijacker for any purpose, it can intrude into any unencrypted protocols and execute data payload using target credentials stealthly
 
+# TCP-IP Connection Reset
+1. A TCP reset kills a TCP-IP connection instantly, when used as designed, this can be a useful
+
 # Agreement
 EULA
 
