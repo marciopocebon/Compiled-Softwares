@@ -1,6 +1,6 @@
 # F.A.Q
 
-# ShaheenX for Windows 10
+# ShaheenX
 1. Advanced and fully automatic sub domain hack software to find possible take overs
 2. This is a fully automatic protection software by hacking and revealing full information it can
 3. ShaheenX dives into Google and Bing with full automation, hands free mode
@@ -51,6 +51,9 @@ information or no information at all without wasting time.
 2. Enter domain like: google
 3. It will automatically clean, adjust and give you all possible relationship cname records of sub domains
 
+# Kali Edition
+1. Compiled
+ 
 # Windows Edition
 1. Download http://gnuwin32.sourceforge.net/packages/sed.htm
 2. Download http://gnuwin32.sourceforge.net/packages/gawk.htm
