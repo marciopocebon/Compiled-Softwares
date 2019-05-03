@@ -69,6 +69,9 @@ The both sides of the connection wait for an packet with a specified sequence nu
 1. ARP uses Frame
 2. Frame is if you want to deliver a message to another machine on a network, it will first search for the physical address of the destination. There is actually something called as ARP, that does the job of translating IP addresses to Physical addresses. ARP(address resolution protocol) is one of the core components in networking.
 
+# ICMP Ridrect Attack Method
+1. Read https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol#Redirect
+
 
 # How requests are handled?
 1. Web requests are automatically handled by Perl modules.
