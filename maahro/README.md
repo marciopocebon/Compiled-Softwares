@@ -48,15 +48,24 @@ it fully provide useful information or no information at all without wasting tim
 # Installation
 1. Clone git in /root/Downloads path, in folder enter: chmod u+x installer.sh, then: ./installer.sh and your done.
 
+# Kali Edition
+1. Compiled
+ 
+# Windows 10 Edition Only
+1. Download sed binary, http://gnuwin32.sourceforge.net/packages/sed.htm
+2. Download gawk binary, http://gnuwin32.sourceforge.net/packages/gawk.htm
+3. Download basic *nix toolset during setup, https://www.cygwin.com/setup-x86_64.exe
+4. Set path, https://i.stack.imgur.com/1W7xj.png
+5. next: https://tinyurl.com/y5ygqwwy
+6. next: https://tinyurl.com/y4l3nu3t
+7. next: https://tinyurl.com/y6pnzd4o
+8. next: https://tinyurl.com/y2o5pcmn
+9. next: https://tinyurl.com/y2f24qjd
+10. next: https://tinyurl.com/y2f24qjd
+11. Your all set!
 
-# Requirement
-1. Maahro runs on any *Nix system
-2. Maahro needs Perl
-3. Maahro needs *Nix-utils
-4. Maahro use Bash scripting
-5. Maahro use Awk scripting
-6. Maahro use Sed scripting
-
+# Running in Windows 10
+1. Run cygwin in Windows 10 and use this tool from there!
 
 # Contact
 mrharoonawan@gmail.com
