@@ -1,0 +1,1 @@
+echo "$(cat subdomains.txt)" | sed 's~http[s]*://~~g' > subdomains
