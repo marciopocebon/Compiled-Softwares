@@ -67,5 +67,9 @@ information or no information at all without wasting time.
 10. next: https://tinyurl.com/y2f24qjd
 11. Your all set!
 
+# Running in Windows 10
+1. Run cygwin in Windows 10 and use this tool from there!
+
+
 # Contact
 mrharoonawan@gmail.com
