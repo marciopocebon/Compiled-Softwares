@@ -1,6 +1,6 @@
 # F.A.Q
 
-# VASL
+# VASL for Windows
 1. Advanced and fully automatic sub domain hack software to find possible take overs
 2. This is a fully automatic protection software by hacking and revealing full information it can
 3. Scripting engine power concept is taken from Panthera Software Suite
@@ -62,8 +62,14 @@ information or no information at all without wasting time.
 1. Download http://gnuwin32.sourceforge.net/packages/sed.htm
 2. Download http://gnuwin32.sourceforge.net/packages/gawk.htm
 3. Set path as described here: https://i.stack.imgur.com/1W7xj.png
-4. Install Python
-5. Your all set!
+4. On Windows 10, do this: https://tinyurl.com/y5ygqwwy
+5. Then do this: https://tinyurl.com/y4l3nu3t
+6. Then do this: https://tinyurl.com/y6pnzd4o
+7. Then do this: https://tinyurl.com/y2o5pcmn
+8. Then do this: https://tinyurl.com/y2f24qjd
+9. Then do this: https://tinyurl.com/y2f24qjd
+10. Install Python
+11. Your all set!
 
 # Contact
 mrharoonawan@gmail.com
