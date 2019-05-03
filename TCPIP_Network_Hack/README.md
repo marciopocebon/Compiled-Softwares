@@ -1,6 +1,6 @@
 # F.A.Q
 
-# Gateway Hack
+# Gateway Hack 
 1. ICMP - Victim Host Redirector
 2. You can redirect victim host gateway from old to new to your own
 
@@ -13,7 +13,13 @@ EULA
 # TCP-IP-Session-Hijacker
 - Interface 
 <div align="center">
-    <img src="http://oi64.tinypic.com/169rrzn.jpg" width="400px"</img> 
+    <img src="http://oi65.tinypic.com/2yl2ww8.jpg" width="400px"</img> 
+</div>
+
+# Gateway Hack
+- Interface 
+<div align="center">
+    <img src="http://oi68.tinypic.com/21pm5k.jpg" width="400px"</img> 
 </div>
 
 # What is TCP-IP Connection Intruder & Gateway Hack?
