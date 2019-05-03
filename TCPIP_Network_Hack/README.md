@@ -22,9 +22,17 @@ EULA
     <img src="http://oi68.tinypic.com/21pm5k.jpg" width="400px"</img> 
 </div>
 
-# What is TCP-IP Connection Intruder & Gateway Hack?
+# Gateway Hack
+- Interface 
+<div align="center">
+    <img src="http://oi63.tinypic.com/n535ms.jpg" width="400px"</img> 
+</div>
+
+
+# What is TCP-IP Connection Intruder & Gateway Hack & TCP-IP Connection Reset?
 1. It works in NETWORK SWITCHES & HUBS stealthly!
 2. Gateway works in Network Switches and Hubs Sealthly!
+3. TCP reset kills a TCP connection. When used as designed, this can be a useful tool!
 
 
 # TCP-IP Session Attack Method
