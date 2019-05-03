@@ -85,21 +85,27 @@ EULA
 3. This tool can ONLY be used as domain name records forge
 
 # Installation
-1. In your terminal, git clone https://github.com/haroonawanethicalhacker/panthera.git
-2. Best path would be /root/Downloads/panthera as paths are set to this folder
-3. Perl: "perl -MCPAN -e shell", then, "install LWP::Simple", then, "install Term::ANSIColor"
-4. Python: pypi(dot)python(dot)org/pypi/setuptools then type, "easy_install pip" then, "pip install scapy"
-5. Make .sh scripts in Panthera world readable and write able by chmod 755 filename or chmod +x filename option
+1. git clone https://github.com/haroonawanethicalhacker/panthera.git
 
-# Requirement
-1. Panthera needs Kali
-2. Panthera needs Perl
-3. Panthera needs Python
-4. Panthera use Nmap
-5. Panthera use Metasploit
-6. Panthera use Bash scripting
-7. Panthera use Awk scripting
-8. Panthera use Sed scripting
+# Kali Edition
+1. Compiled
+ 
+# Windows 10 Edition Only
+1. Download sed binary, http://gnuwin32.sourceforge.net/packages/sed.htm
+2. Download gawk binary, http://gnuwin32.sourceforge.net/packages/gawk.htm
+3. Download basic *nix toolset during setup, https://www.cygwin.com/setup-x86_64.exe
+4. Download zenmap/nmap cli and gui from official nmap website
+5. Set path, https://i.stack.imgur.com/1W7xj.png
+6. next: https://tinyurl.com/y5ygqwwy
+7. next: https://tinyurl.com/y4l3nu3t
+8. next: https://tinyurl.com/y6pnzd4o
+9. next: https://tinyurl.com/y2o5pcmn
+10. next: https://tinyurl.com/y2f24qjd
+11. next: https://tinyurl.com/y2f24qjd
+12. Your all set!
+
+# Running in Windows 10
+1. Run cygwin in Windows 10 and use this software from there!
 
 # Contact
 mrharoonawan@gmail.com
