@@ -5,6 +5,9 @@
 2. This is a fully automatic protection software by hacking and revealing full information it can
 3. Scripting engine power concept is taken from Panthera Software Suite
 
+# Download from here
+https://github.com/haroonawanofficial/vasl
+
 # LICENSE
 EULA
 
