@@ -1,6 +1,6 @@
 # F.A.Q
 
-# VASL for Windows
+# VASL
 1. Advanced and fully automatic sub domain hack software to find possible take overs
 2. This is a fully automatic protection software by hacking and revealing full information it can
 3. Scripting engine power concept is taken from Panthera Software Suite
@@ -60,6 +60,9 @@ information or no information at all without wasting time.
 1. Run VASL
 2. Enter domain in double quotes format like "google.com"
 3. Enter domain again in dot format like: .google.com
+
+# Kali Edition
+1. Compiled
 
 # Windows Edition
 1. Download http://gnuwin32.sourceforge.net/packages/sed.htm
