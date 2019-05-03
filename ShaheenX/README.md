@@ -1,6 +1,6 @@
 # F.A.Q
 
-# ShaheenX for Windows
+# ShaheenX for Windows 10
 1. Advanced and fully automatic sub domain hack software to find possible take overs
 2. This is a fully automatic protection software by hacking and revealing full information it can
 3. ShaheenX dives into Google and Bing with full automation, hands free mode
